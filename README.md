@@ -31,7 +31,7 @@
 
 **라이선스:**
 
-이 프로젝트는 [All Rights Reserved/No License] 라이선스로 배포됩니다. 자세한 내용은 LICENSE 파일을 참고하세요.
+이 프로젝트는 [MIT License] 라이선스로 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
 
 <details>
   <summary>English</summary>
@@ -68,6 +68,6 @@ Feel free to create an issue to report bugs, request features, or ask questions.
 
 **License:**
 
-This project is distributed under the [All Rights Reserved/No License] license. See the LICENSE file for details.
+This project is distributed under the [MIT License] license. See the [LICENSE](LICENSE) file for details.
 
 </details>
