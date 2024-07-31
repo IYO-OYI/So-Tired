@@ -32,3 +32,42 @@ So Tired는 마인크래프트의 성능을 극대화하고 부드러운 게임 
 **라이선스:**
 
 이 프로젝트는 [All Rights Reserved/No License] 라이선스로 배포됩니다. 자세한 내용은 LICENSE 파일을 참고하세요.
+
+<details>
+  <summary>English</summary>
+  
+# ⚡ So Tired - Minecraft Optimization Modpack ⚡
+
+So Tired is an optimization modpack designed to maximize Minecraft performance and provide a smooth gameplay experience.
+
+**Key Features:**
+
+* **Ultimate Performance:** Offers smooth gameplay with FPS boosts, optimized rendering, and reduced memory usage.
+* **Server Optimization:** It also delivers excellent performance in multiplayer environments, including server-side performance optimization.
+* **Shader Support:** Supports Iris Shaders, allowing you to enjoy beautiful graphics by adding your favorite shaders.
+* **NVIDIA Optimization:** Offers special optimizations for NVIDIA graphics card users.
+* **Convenience Features:** It offers various convenient features such as dynamic lighting, texture linking, screen zoom, and chat bubbles.
+* **Automatic Mod Installation:** Automatically installs and updates mods if supported by your Fabric Mod server.
+* **Real-time Ping Display:** Displays network status in real-time for stable multiplayer gameplay.
+
+**Join the Community:**
+
+Feel free to create an issue to report bugs, request features, or ask questions. Let's improve So Tired together!
+
+**When Encountering Issues:**
+
+* Refer to the issue template and provide detailed information.
+* **Version:** Specify your Minecraft version and So Tired version.
+* **Mod Conflicts:** Consider potential conflicts with other mods.
+* **Logs:** Attach the log files from the `logs` folder.
+
+**Contributing:**
+
+* Contribute in various ways, such as fixing code or adding new features.
+* Submit a Pull Request to propose changes.
+
+**License:**
+
+This project is distributed under the [All Rights Reserved/No License] license. See the LICENSE file for details.
+
+</details>
